@@ -30,22 +30,3 @@ Procedures:
 
 5-From the data set in step 4, creating a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-
-After setting the source directory for the files, read into tables the data located in
-
-
-features.txt
-
-activity_labels.txt
-
-subject_train.txt
-
-x_train.txt
-
-y_train.txt
-
-subject_test.txt
-
-x_test.txt
-
-y_test.txt
