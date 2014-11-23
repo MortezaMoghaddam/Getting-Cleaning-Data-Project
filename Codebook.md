@@ -1,20 +1,20 @@
 # 1. Create a dataset by merging the train and the test
 
-#set working directory to the location where the UCI HAR Dataset was unzipped
+set working directory to the location where the UCI HAR Dataset was unzipped
 
-# Read data
+ Read data
 
-# Create column names
+#Create column names
 
-#Merging yTrain, subjectTrain, and xTrain
+Merging yTrain, subjectTrain, and xTrain
 
-# Read in the test data
+Read in the test data
 
-# Test Data column's Name
+Test Data column's Name
 
-# Merging xTest, yTest and subjectTest data
+Merging xTest, yTest and subjectTest data
 
-# Final data set by merging the test and training
+Final data set by merging the test and training
 
 # 2.Mean and standard deviation 
 
@@ -25,8 +25,8 @@
 
 # 5. Create  tidy data set with the average of each variable for each activity and each subject. 
 
-# Summarizing the FDataNoActivityType
+Summarizing the FDataNoActivityType
 
-# Merging to include descriptive acitvity names
+Merging to include descriptive acitvity names
 
-# Export the tidyData set 
+Export the tidyData set 
